@@ -1,0 +1,15 @@
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/bin/Debug/net6.0/Text_Editor
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/bin/Debug/net6.0/Text_Editor.deps.json
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/bin/Debug/net6.0/Text_Editor.runtimeconfig.json
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/bin/Debug/net6.0/Text_Editor.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/bin/Debug/net6.0/Text_Editor.pdb
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.csproj.AssemblyReference.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.AssemblyInfoInputs.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.AssemblyInfo.cs
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.csproj.CoreCompileInputs.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/refint/Text_Editor.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.pdb
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/Text_Editor.genruntimeconfig.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor-de-Textos/Text_Editor/obj/Debug/net6.0/ref/Text_Editor.dll
